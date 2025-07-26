@@ -11,7 +11,7 @@ Cada pasta do repositório representa um dos desafios propostos, contendo explic
 ## 📂 Estrutura do Repositório
 
 Fundamentos-Linguagens-UFC/
-‘‘‘│
+```
 ├── 01-introducao/ --> Linha do tempo + README.md
 ├── 02-ambientes/ --> Diagrama de compilador/interprete + README.md
 ├── 03-sintaxe-semantica/ --> Gramática fictícia + README.md
@@ -26,7 +26,7 @@ Fundamentos-Linguagens-UFC/
 ├── 12-programacao-logica/ --> Problema lógico em Prolog ou pseudocódigo + README.md
 ├── 13-scripts-web/ --> Script de automação ou web + README.md
 └── 14-tendencias/ --> Análise crítica sobre linguagem emergente + README.md ‘‘‘
-
+```
 
 ---
 
