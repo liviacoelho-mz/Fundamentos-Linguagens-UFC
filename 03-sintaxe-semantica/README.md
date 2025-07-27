@@ -61,9 +61,9 @@ print(x);
 ## 🧠 Análise Sintática
 A estrutura do código segue a gramática:
 
-- int x; → <declaracao>
-- x = 5 + 3; → <atribuicao> com <expressao> aninhada
-- print(x); → <impressao>
+- int x; → `<declaracao>`
+- x = 5 + 3; → `<atribuicao> com <expressao> aninhada`
+- print(x); → `<impressao>`
 
 ## 🔧 Possível Expansão Semântica
 - Verificar se x foi declarado antes da atribuição.
