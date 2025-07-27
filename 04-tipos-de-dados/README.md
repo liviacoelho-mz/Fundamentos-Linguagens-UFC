@@ -67,12 +67,12 @@ console.log("10" - 5); // 5   → coerção automática para número
 JavaScript realiza coerção implícita entre tipos. Isso facilita a programação rápida, mas pode causar bugs difíceis de detectar se não for bem controlado.
 
 ## 📝 Comparação Geral
-```
+
 | Linguagem  | Tipagem  | Forte ou Fraca | Conversão Automática? | Observações                             |
 | ---------- | -------- | -------------- | --------------------- | --------------------------------------- |
 | Python     | Dinâmica | Forte          | Não                   | Erros em operações inválidas            |
 | C          | Estática | Fraca/Moderada | Parcialmente          | Requer casts explícitos em muitos casos |
 | JavaScript | Dinâmica | Fraca          | Sim                   | Pode causar erros inesperados           |
-```
+
 ## ✅ Conclusão
 Cada linguagem apresenta um sistema de tipos com diferentes graus de rigidez e flexibilidade. Escolher uma ou outra depende do objetivo: segurança e controle (C), agilidade com segurança (Python), ou flexibilidade para scripts e web (JavaScript).
