@@ -12,7 +12,7 @@ Representar e explicar graficamente os diferentes componentes de um ambiente de 
 
 ![Diagrama do Ambiente de Programação](ambiente-programacao.png)
 
-> *Imagem ilustrativa criada com Draw.io (ou Canva), representando o fluxo de tradução e execução de programas.*
+> *Imagem ilustrativa criada com Canva, representando o fluxo de tradução e execução de programas.*
 
 ## Conceitos
 
