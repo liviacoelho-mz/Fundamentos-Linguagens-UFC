@@ -59,13 +59,13 @@ moto1.exibir_informacoes()
 moto1.ligar()
 ```
 ## 🧠 Explicação dos conceitos:
-```
+
 | Conceito           | Onde aparece                                                                                     |
 | ------------------ | ------------------------------------------------------------------------------------------------ |
 | **Herança**        | `Carro` e `Moto` herdam de `Veiculo`                                                             |
 | **Polimorfismo**   | O método `ligar()` é sobrescrito em cada subclasse                                               |
 | **Encapsulamento** | Os atributos são definidos no construtor `__init__()` e acessados apenas pelos métodos da classe |
-```
+
 ## ✅ Conclusão
 A Programação Orientada a Objetos permite reutilização de código, organização hierárquica e extensibilidade.
 Este exemplo mostra como aplicar herança e polimorfismo em uma estrutura simples com clareza e legibilidade.
