@@ -39,8 +39,8 @@ A **máquina virtual** (como a JVM) executa um código intermediário, chamado d
 
 ## Comparativo
 ```
-| Critério         | Compilador             | Interpretador         | Máquina Virtual       |
-|------------------|------------------------|------------------------|------------------------|
+| Critério         | Compilador             | Interpretador          | Máquina Virtual       |
+|------------------|------------------------|------------------------|-----------------------|
 | Velocidade       | Alta                   | Média/baixa            | Média                 |
 | Portabilidade    | Baixa (depende da CPU) | Alta                   | Alta                  |
 | Etapas           | Geração de binário     | Execução direta        | Bytecode + execução   |
