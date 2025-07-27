@@ -7,6 +7,22 @@ O objetivo do trabalho é exercitar de forma prática e crítica os principais c
 Cada pasta do repositório representa um dos desafios propostos, contendo explicações, códigos, diagramas, comparações e análises.
 
 ---
+## 📑 Sumário
+
+- [01 - Introdução às Linguagens](./01-introducao/)
+- [02 - Ambientes de Programação](./02-ambientes/)
+- [03 - Descrições Sintáticas e Semânticas](./03-sintaxe-semantica/)
+- [04 - Tipos de Dados](./04-tipos-de-dados/)
+- [05 - Estruturas de Controle](./05-estruturas-de-controle/)
+- [06 - Subprogramas](./06-subprogramas/)
+- [07 - Implementação de Subprogramas](./07-implementacao-subprogramas/)
+- [08 - Programação Orientada a Objetos](./08-orientacao-objetos/)
+- [09 - Concorrência](./09-concorrencia/)
+- [10 - Gerenciamento de Memória](./10-gerenciamento-memoria/)
+- [11 - Programação Funcional](./11-programacao-funcional/)
+- [12 - Programação Lógica](./12-programacao-logica/)
+- [13 - Scripts e Web](./13-scripts-web/)
+- [14 - Tendências em Linguagens](./14-tendencias/)
 
 ## 📂 Estrutura do Repositório
 
