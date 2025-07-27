@@ -45,7 +45,7 @@ filho(X, Y) :-
     mae(Y, X).
 ```
 ## 🧪 Exemplos de consultas
-
+```
 ?- irmao(maria, jose).
 true.
 
@@ -60,6 +60,7 @@ true.
 
 ?- irmao(maria, julia).
 false.
+```
 
 ## 🔍 Explicação dos conceitos
 
