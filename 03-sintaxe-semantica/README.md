@@ -40,7 +40,7 @@ x = 5 + 3;
 print(x);
 
 ## 🔍 Análise Léxica (Tokenização)
-```
+
 | Token | Tipo                   |
 | ----- | ---------------------- |
 | int   | Palavra-chave          |
@@ -57,7 +57,7 @@ print(x);
 | x     | Identificador          |
 | )     | Delimitador            |
 | ;     | Delimitador            |
-```
+
 ## 🧠 Análise Sintática
 A estrutura do código segue a gramática:
 
