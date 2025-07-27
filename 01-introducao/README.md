@@ -8,7 +8,7 @@ Apresentar a evolução histórica das linguagens de programação por meio de u
 
 ![Linha do Tempo da Programação](linha-do-tempo.png)
 
-> *Imagem criada com Canva contendo marcos históricos das linguagens. Também pode ser usada uma ferramenta como Lucidchart ou Draw.io.*
+> *Imagem criada com Canva contendo marcos históricos das linguagens.*
 
 ## Principais Marcos Históricos
 
