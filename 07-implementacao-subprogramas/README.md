@@ -38,6 +38,6 @@ A cada chamada de função:
 - A função só retorna quando a recursão terminar
 - Isso gera uma estrutura em forma de pilha (LIFO)
 
-🖼️ Ilustração (Exemplo visual)
+## 🖼️ Ilustração (Exemplo visual)
 ![Pilha de chamadas do fatorial](./pilha-fatorial.png)
 
