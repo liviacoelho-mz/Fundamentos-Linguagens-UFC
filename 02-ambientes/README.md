@@ -38,14 +38,14 @@ A **máquina virtual** (como a JVM) executa um código intermediário, chamado d
 - **Características:** Portabilidade, segurança, gestão automática de memória.
 
 ## Comparativo
-```
+
 | Critério         | Compilador             | Interpretador          | Máquina Virtual       |
 |------------------|------------------------|------------------------|-----------------------|
 | Velocidade       | Alta                   | Média/baixa            | Média                 |
 | Portabilidade    | Baixa (depende da CPU) | Alta                   | Alta                  |
 | Etapas           | Geração de binário     | Execução direta        | Bytecode + execução   |
 | Exemplo          | C                      | Python, JavaScript     | Java (JVM), Kotlin    |
-```
+
 ---
 
 ## Considerações Finais
