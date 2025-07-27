@@ -46,4 +46,19 @@ t1.join()
 t2.join()
 
 print("✅ Tarefas finalizadas!")
+```
+### 🔍 Explicação
+- Criamos duas funções que simulam tarefas independentes.
+- Usamos o módulo `threading` do Python para rodá-las simultaneamente.
+- `start()` inicia a execução paralela.
+- `join()` garante que o programa espere ambas as tarefas terminarem.
 
+### 🧠 Por que usar concorrência?
+Concorrência é útil quando:
+- Queremos melhorar o desempenho em tarefas paralelizáveis.
+- Existem operações de espera (como leitura de arquivos, requisições web).
+- Queremos uma interface responsiva que não trave.
+
+## ✅ Conclusão
+Com poucas linhas, conseguimos simular a execução paralela de tarefas. A concorrência com threads é poderosa em aplicações que precisam manipular múltiplas tarefas simultâneas de forma eficiente.
+Para cargas muito pesadas (CPU-bound), o ideal seria usar o módulo `multiprocessing`.
