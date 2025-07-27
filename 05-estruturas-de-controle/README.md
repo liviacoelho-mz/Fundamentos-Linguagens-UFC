@@ -63,14 +63,14 @@ while True:
         print("Opção inválida. Tente novamente.")
 ```
 ## ✅ Estruturas usadas:
-```
+
 | Estrutura      | Onde foi usada                               |
 | -------------- | -------------------------------------------- |
 | `while`        | Loop principal para manter o menu ativo      |
 | `if/elif/else` | Verificação da opção escolhida               |
 | `break`        | Encerra o programa quando o usuário digita 4 |
 | `continue`     | Ignora depósitos/saques inválidos            |
-```
+
 ## 🧠 Conclusão
 Este exercício mostra como estruturas básicas de controle podem ser usadas para simular sistemas simples. A lógica do programa é flexível e pode ser expandida com facilidade para incluir funcionalidades como histórico de transações, limites diários, entre outros.
 
